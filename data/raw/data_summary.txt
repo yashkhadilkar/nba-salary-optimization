@@ -1,5 +1,0 @@
-player_stats: 4323
-advanced_stats: 4323
-salary_data: 256
-seasons_covered: [2020, 2021, 2022, 2023, 2024, 2025]
-collection_date: 2025-07-20 22:56:44
