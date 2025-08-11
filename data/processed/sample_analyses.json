@@ -1,0 +1,405 @@
+{
+  "top_scorers": [
+    {
+      "season": "2020",
+      "player": "James Harden",
+      "points": 2335.0,
+      "team": "HOU"
+    },
+    {
+      "season": "2021",
+      "player": "Stephen Curry",
+      "points": 2015.0,
+      "team": "GSW"
+    },
+    {
+      "season": "2022",
+      "player": "Trae Young",
+      "points": 2155.0,
+      "team": "ATL"
+    },
+    {
+      "season": "2023",
+      "player": "Jayson Tatum",
+      "points": 2225.0,
+      "team": "BOS"
+    },
+    {
+      "season": "2024",
+      "player": "Luka Don\u010di\u0107",
+      "points": 2370.0,
+      "team": "DAL"
+    },
+    {
+      "season": "2025",
+      "player": "Shai Gilgeous-Alexander",
+      "points": 2484.0,
+      "team": "OKC"
+    }
+  ],
+  "efficiency_leaders": [
+    {
+      "Player_Clean": "Jaylen Wells",
+      "Team_Clean": "MEM",
+      "Points_Per_Million": 420.8907029181585,
+      "Salary_Millions": 1.955377,
+      "PTS": 823.0,
+      "TRB": 268.0,
+      "AST": 135.0
+    },
+    {
+      "Player_Clean": "Toumani Camara",
+      "Team_Clean": "POR",
+      "Points_Per_Million": 396.9974033129028,
+      "Salary_Millions": 2.221677,
+      "PTS": 882.0,
+      "TRB": 450.0,
+      "AST": 175.0
+    },
+    {
+      "Player_Clean": "Scotty Pippen Jr.",
+      "Team_Clean": "MEM",
+      "Points_Per_Million": 343.0607270333174,
+      "Salary_Millions": 2.270735,
+      "PTS": 779.0,
+      "TRB": 259.0,
+      "AST": 347.0
+    },
+    {
+      "Player_Clean": "Brice Sensabaugh",
+      "Team_Clean": "UTA",
+      "Points_Per_Million": 286.58826324542645,
+      "Salary_Millions": 2.69376,
+      "PTS": 772.0,
+      "TRB": 210.0,
+      "AST": 110.0
+    },
+    {
+      "Player_Clean": "Jamal Shead",
+      "Team_Clean": "TOR",
+      "Points_Per_Million": 272.5817067501561,
+      "Salary_Millions": 1.955377,
+      "PTS": 533.0,
+      "TRB": 115.0,
+      "AST": 316.0
+    },
+    {
+      "Player_Clean": "Julian Champagnie",
+      "Team_Clean": "SAS",
+      "Points_Per_Million": 271.6666666666667,
+      "Salary_Millions": 3.0,
+      "PTS": 815.0,
+      "TRB": 318.0,
+      "AST": 111.0
+    },
+    {
+      "Player_Clean": "Keyonte George",
+      "Team_Clean": "UTA",
+      "Points_Per_Million": 262.9143530203601,
+      "Salary_Millions": 4.27896,
+      "PTS": 1125.0,
+      "TRB": 253.0,
+      "AST": 377.0
+    },
+    {
+      "Player_Clean": "Ricky Council IV",
+      "Team_Clean": "PHI",
+      "Points_Per_Million": 239.45875120460803,
+      "Salary_Millions": 2.221677,
+      "PTS": 532.0,
+      "TRB": 214.0,
+      "AST": 97.0
+    },
+    {
+      "Player_Clean": "Isaiah Collier",
+      "Team_Clean": "UTA",
+      "Points_Per_Million": 233.1134864680464,
+      "Salary_Millions": 2.6382,
+      "PTS": 615.0,
+      "TRB": 235.0,
+      "AST": 446.0
+    },
+    {
+      "Player_Clean": "Justin Champagnie",
+      "Team_Clean": "WAS",
+      "Points_Per_Million": 231.53093874729842,
+      "Salary_Millions": 2.349578,
+      "PTS": 544.0,
+      "TRB": 351.0,
+      "AST": 60.0
+    }
+  ],
+  "team_salary_summary": {
+    "2TM": {
+      "sum": 352.572511,
+      "mean": 22.035782,
+      "count": 16
+    },
+    "ATL": {
+      "sum": 113.272355,
+      "mean": 16.181765,
+      "count": 7
+    },
+    "BKN": {
+      "sum": 52.55695,
+      "mean": 13.139238,
+      "count": 4
+    },
+    "BOS": {
+      "sum": 203.235756,
+      "mean": 20.323576,
+      "count": 10
+    },
+    "CHA": {
+      "sum": 117.828158,
+      "mean": 13.092018,
+      "count": 9
+    },
+    "CHI": {
+      "sum": 45.384135,
+      "mean": 7.564022,
+      "count": 6
+    },
+    "CLE": {
+      "sum": 184.884899,
+      "mean": 23.110612,
+      "count": 8
+    },
+    "DAL": {
+      "sum": 39.927107,
+      "mean": 7.985421,
+      "count": 5
+    },
+    "DEN": {
+      "sum": 178.088463,
+      "mean": 22.261058,
+      "count": 8
+    },
+    "DET": {
+      "sum": 75.936127,
+      "mean": 12.656021,
+      "count": 6
+    },
+    "GSW": {
+      "sum": 112.202898,
+      "mean": 18.700483,
+      "count": 6
+    },
+    "HOU": {
+      "sum": 112.236317,
+      "mean": 18.706053,
+      "count": 6
+    },
+    "IND": {
+      "sum": 155.814641,
+      "mean": 17.312738,
+      "count": 9
+    },
+    "LAC": {
+      "sum": 88.138657,
+      "mean": 14.689776,
+      "count": 6
+    },
+    "LAL": {
+      "sum": 31.47454,
+      "mean": 7.868635,
+      "count": 4
+    },
+    "MEM": {
+      "sum": 111.980714,
+      "mean": 11.198071,
+      "count": 10
+    },
+    "MIA": {
+      "sum": 78.356957,
+      "mean": 15.671391,
+      "count": 5
+    },
+    "MIL": {
+      "sum": 58.303504,
+      "mean": 19.434501,
+      "count": 3
+    },
+    "MIN": {
+      "sum": 128.871011,
+      "mean": 18.410144,
+      "count": 7
+    },
+    "NOR": {
+      "sum": 162.585742,
+      "mean": 18.065082,
+      "count": 9
+    },
+    "NYK": {
+      "sum": 156.500301,
+      "mean": 22.357186,
+      "count": 7
+    },
+    "OKC": {
+      "sum": 140.429027,
+      "mean": 15.603225,
+      "count": 9
+    },
+    "ORL": {
+      "sum": 146.776103,
+      "mean": 16.308456,
+      "count": 9
+    },
+    "PHI": {
+      "sum": 153.24779,
+      "mean": 25.541298,
+      "count": 6
+    },
+    "PHX": {
+      "sum": 84.755401,
+      "mean": 16.95108,
+      "count": 5
+    },
+    "POR": {
+      "sum": 69.655118,
+      "mean": 11.609186,
+      "count": 6
+    },
+    "SAC": {
+      "sum": 91.927339,
+      "mean": 22.981835,
+      "count": 4
+    },
+    "SAS": {
+      "sum": 70.4374,
+      "mean": 14.08748,
+      "count": 5
+    },
+    "TOR": {
+      "sum": 132.861958,
+      "mean": 14.76244,
+      "count": 9
+    },
+    "UTA": {
+      "sum": 74.54958,
+      "mean": 9.318698,
+      "count": 8
+    },
+    "WAS": {
+      "sum": 74.900993,
+      "mean": 10.700142,
+      "count": 7
+    }
+  },
+  "career_stage_distribution": {
+    "Developing": 1210,
+    "Rookie/Young": 1167,
+    "Prime": 492,
+    "Veteran": 362,
+    "Late Career": 123,
+    "Unknown": 6
+  },
+  "top_per_2025": [
+    {
+      "Player_Clean": "Nikola Joki\u0107",
+      "Team_Clean": "DEN",
+      "PER": 32.0
+    },
+    {
+      "Player_Clean": "Shai Gilgeous-Alexander",
+      "Team_Clean": "OKC",
+      "PER": 30.7
+    },
+    {
+      "Player_Clean": "Giannis Antetokounmpo",
+      "Team_Clean": "MIL",
+      "PER": 30.5
+    },
+    {
+      "Player_Clean": "Zion Williamson",
+      "Team_Clean": "NOR",
+      "PER": 27.3
+    },
+    {
+      "Player_Clean": "Anthony Davis",
+      "Team_Clean": "2TM",
+      "PER": 26.3
+    }
+  ],
+  "top_vorp_2025": [
+    {
+      "Player_Clean": "Nikola Joki\u0107",
+      "Team_Clean": "DEN",
+      "VORP": 9.8
+    },
+    {
+      "Player_Clean": "Shai Gilgeous-Alexander",
+      "Team_Clean": "OKC",
+      "VORP": 8.9
+    },
+    {
+      "Player_Clean": "Giannis Antetokounmpo",
+      "Team_Clean": "MIL",
+      "VORP": 6.6
+    },
+    {
+      "Player_Clean": "Tyrese Haliburton",
+      "Team_Clean": "IND",
+      "VORP": 4.9
+    },
+    {
+      "Player_Clean": "Jayson Tatum",
+      "Team_Clean": "BOS",
+      "VORP": 4.8
+    }
+  ],
+  "top_bpm_2025": [
+    {
+      "Player_Clean": "Nikola Joki\u0107",
+      "Team_Clean": "DEN",
+      "BPM": 13.3
+    },
+    {
+      "Player_Clean": "Shai Gilgeous-Alexander",
+      "Team_Clean": "OKC",
+      "BPM": 11.5
+    },
+    {
+      "Player_Clean": "Giannis Antetokounmpo",
+      "Team_Clean": "MIL",
+      "BPM": 9.5
+    },
+    {
+      "Player_Clean": "Zion Williamson",
+      "Team_Clean": "NOR",
+      "BPM": 7.0
+    },
+    {
+      "Player_Clean": "Luka Don\u010di\u0107",
+      "Team_Clean": "2TM",
+      "BPM": 6.7
+    }
+  ],
+  "top_ws_2025": [
+    {
+      "Player_Clean": "Shai Gilgeous-Alexander",
+      "Team_Clean": "OKC",
+      "WS": 16.7
+    },
+    {
+      "Player_Clean": "Nikola Joki\u0107",
+      "Team_Clean": "DEN",
+      "WS": 16.4
+    },
+    {
+      "Player_Clean": "Ivica Zubac",
+      "Team_Clean": "LAC",
+      "WS": 11.7
+    },
+    {
+      "Player_Clean": "Jarrett Allen",
+      "Team_Clean": "CLE",
+      "WS": 11.6
+    },
+    {
+      "Player_Clean": "Giannis Antetokounmpo",
+      "Team_Clean": "MIL",
+      "WS": 11.5
+    }
+  ]
+}

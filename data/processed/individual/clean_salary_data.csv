@@ -1,0 +1,257 @@
+Rk,Player,Tm,2025-26,2026-27,2027-28,2028-29,2029-30,2030-31,Guaranteed,Player_Clean,Team_Clean,Current_Salary,Salary_Tier,Salary_Millions,Has_Salary_Data,Multi_Year_Contract,Total_Contract_Value
+1,Stephen Curry,GSW,59606817,62587158,,,,,"$122,193,975",Stephen Curry,GSW,59606817,Superstar,59.606817,True,True,122193975.0
+2,Joel Embiid,PHI,55224526,57985752,,,,,"$175,834,890",Joel Embiid,PHI,55224526,Superstar,55.224526,True,True,113210278.0
+3,Nikola Jokić,DEN,55224526,59033114,,,,,"$114,257,640",Nikola Jokić,DEN,55224526,Superstar,55.224526,True,True,114257640.0
+5,Jayson Tatum,BOS,54126450,58456566,,,,,"$242,486,496",Jayson Tatum,BOS,54126450,Superstar,54.12645,True,True,112583016.0
+6,Giannis Antetokounmpo,MIL,54126450,58456566,,,,,"$112,583,016",Giannis Antetokounmpo,MIL,54126450,Superstar,54.12645,True,True,112583016.0
+7,Anthony Davis,DAL,54126450,58456566,,,,,"$112,583,016",Anthony Davis,DAL,54126450,Superstar,54.12645,True,True,112583016.0
+8,Jimmy Butler,GSW,54126450,56832773,,,,,"$110,959,223",Jimmy Butler,GSW,54126450,Superstar,54.12645,True,True,110959223.0
+11,Jaylen Brown,BOS,53142264,57078728,,,,,"$236,187,840",Jaylen Brown,BOS,53142264,Superstar,53.142264,True,True,110220992.0
+12,Devin Booker,PHO,53142264,57078728,,,,,"$171,236,184",Devin Booker,PHX,53142264,Superstar,53.142264,True,True,110220992.0
+13,Karl-Anthony Towns,NYK,53142264,57078728,,,,,"$110,220,992",Karl-Anthony Towns,NYK,53142264,Superstar,53.142264,True,True,110220992.0
+15,Paul George,PHI,51666090,54126380,,,,,"$105,792,470",Paul George,PHI,51666090,Superstar,51.66609,True,True,105792470.0
+16,Kawhi Leonard,LAC,50000000,50300000,,,,,"$100,300,000",Kawhi Leonard,LAC,50000000,Superstar,50.0,True,True,100300000.0
+17,Zach LaVine,SAC,47499660,48967380,,,,,"$47,499,660",Zach LaVine,SAC,47499660,Superstar,47.49966,True,True,96467040.0
+18,Evan Mobley,CLE,46394100,50105628,,,,,"$258,879,078",Evan Mobley,CLE,46394100,Superstar,46.3941,True,True,96499728.0
+19,Jamal Murray,DEN,46394100,50105628,,,,,"$207,845,568",Jamal Murray,DEN,46394100,Superstar,46.3941,True,True,96499728.0
+20,Lauri Markkanen,UTA,46394100,46113154,,,,,"$195,868,144",Lauri Markkanen,UTA,46394100,Superstar,46.3941,True,True,92507254.0
+21,Donovan Mitchell,CLE,46394100,50105628,,,,,"$96,499,728",Donovan Mitchell,CLE,46394100,Superstar,46.3941,True,True,96499728.0
+22,Luka Dončić,LAL,45999660,48967380,,,,,"$45,999,660",Luka Dončić,LAL,45999660,Superstar,45.99966,True,True,94967040.0
+23,Trae Young,ATL,45999660,48967380,,,,,"$45,999,660",Trae Young,ATL,45999660,Superstar,45.99966,True,True,94967040.0
+24,Anthony Edwards,MIN,45550512,48924624,,,,,"$202,446,720",Anthony Edwards,MIN,45550512,Superstar,45.550512,True,True,94475136.0
+25,Tyrese Haliburton,IND,45550512,48924624,,,,,"$202,446,720",Tyrese Haliburton,IND,45550512,Superstar,45.550512,True,True,94475136.0
+26,Pascal Siakam,IND,45550512,48924624,,,,,"$146,773,872",Pascal Siakam,IND,45550512,Superstar,45.550512,True,True,94475136.0
+27,Domantas Sabonis,SAC,43636000,46772000,,,,,"$140,316,000",Domantas Sabonis,SAC,43636000,Superstar,43.636,True,True,90408000.0
+28,OG Anunoby,NYK,39568966,42500000,,,,,"$127,500,000",OG Anunoby,NYK,39568966,Superstar,39.568966,True,True,82068966.0
+29,Zion Williamson,NOP,39446090,42166510,,,,,"$126,499,530",Zion Williamson,NOR,39446090,Superstar,39.44609,True,True,81612600.0
+30,Ja Morant,MEM,39446090,42166510,,,,,"$126,499,530",Ja Morant,MEM,39446090,Superstar,39.44609,True,True,81612600.0
+31,Darius Garland,CLE,39446090,42166510,,,,,"$126,499,530",Darius Garland,CLE,39446090,Superstar,39.44609,True,True,81612600.0
+32,Scottie Barnes,TOR,38661750,41754690,,,,,"$224,238,150",Scottie Barnes,TOR,38661750,Superstar,38.66175,True,True,80416440.0
+33,Franz Wagner,ORL,38661750,41754690,,,,,"$224,238,150",Franz Wagner,ORL,38661750,Superstar,38.66175,True,True,80416440.0
+34,Cade Cunningham,DET,38661750,41754690,,,,,"$224,238,150",Cade Cunningham,DET,38661750,Superstar,38.66175,True,True,80416440.0
+35,Shai Gilgeous-Alexander,OKC,38333050,40806150,,,,,"$79,139,200",Shai Gilgeous-Alexander,OKC,38333050,Superstar,38.33305,True,True,79139200.0
+36,Michael Porter Jr.,BRK,38333050,40806150,,,,,"$50,333,050",Michael Porter Jr.,BKN,38333050,Superstar,38.33305,True,True,79139200.0
+37,Brandon Ingram,TOR,38095238,40000000,,,,,"$78,095,238",Brandon Ingram,TOR,38095238,Superstar,38.095238,True,True,78095238.0
+38,Tyrese Maxey,PHI,37958760,40770520,,,,,"$168,705,600",Tyrese Maxey,PHI,37958760,Superstar,37.95876,True,True,78729280.0
+39,LaMelo Ball,CHO,37958760,40770520,,,,,"$168,705,600",LaMelo Ball,CHA,37958760,Superstar,37.95876,True,True,78729280.0
+40,Bam Adebayo,MIA,37096620,48713700,,,,,"$138,421,116",Bam Adebayo,MIA,37096620,Superstar,37.09662,True,True,85810320.0
+42,Desmond Bane,ORL,36725670,39446090,,,,,"$163,225,200",Desmond Bane,ORL,36725670,Superstar,36.72567,True,True,76171760.0
+44,Jalen Suggs,ORL,35000000,32400000,,,,,"$123,800,000",Jalen Suggs,ORL,35000000,Superstar,35.0,True,True,67400000.0
+45,Rudy Gobert,MIN,35000000,36500000,,,,,"$71,500,000",Rudy Gobert,MIN,35000000,Superstar,35.0,True,True,71500000.0
+47,Jalen Brunson,NYK,34944001,37739521,,,,,"$113,218,563",Jalen Brunson,NYK,34944001,Superstar,34.944001,True,True,72683522.0
+48,Alperen Şengün,HOU,33944954,35642202,,,,,"$145,963,303",Alperen Şengün,HOU,33944954,Superstar,33.944954,True,True,69587156.0
+49,Jalen Green,PHO,33333333,36000000,,,,,"$69,333,333",Jalen Green,PHX,33333333,Superstar,33.333333,True,True,69333333.0
+51,Immanuel Quickley,TOR,32500000,32500000,,,,,"$130,000,000",Immanuel Quickley,TOR,32500000,Superstar,32.5,True,True,65000000.0
+52,Jrue Holiday,POR,32400000,34800000,,,,,"$67,200,000",Jrue Holiday,POR,32400000,Superstar,32.4,True,True,67200000.0
+53,Jerami Grant,POR,32000001,34206898,,,,,"$66,206,899",Jerami Grant,POR,32000001,Superstar,32.000001,True,True,66206899.0
+54,Jordan Poole,NOP,31848215,34044642,,,,,"$65,892,857",Jordan Poole,NOR,31848215,Superstar,31.848215,True,True,65892857.0
+55,Dejounte Murray,NOP,31557103,33597072,,,,,"$65,154,175",Dejounte Murray,NOR,31557103,Superstar,31.557103,True,True,65154175.0
+56,Tyler Herro,MIA,31000000,33000000,,,,,"$64,000,000",Tyler Herro,MIA,31000000,Superstar,31.0,True,True,64000000.0
+59,Jalen Johnson,ATL,30000000,30000000,,,,,"$150,000,000",Jalen Johnson,ATL,30000000,Star,30.0,True,True,60000000.0
+60,Isaiah Hartenstein,OKC,28500000,28500000,,,,,"$28,500,000",Isaiah Hartenstein,OKC,28500000,Star,28.5,True,True,57000000.0
+61,Andrew Wiggins,MIA,28223215,30169644,,,,,"$28,223,215",Andrew Wiggins,MIA,28223215,Star,28.223215,True,True,58392859.0
+62,Derrick White,BOS,28100000,30348000,,,,,"$91,044,000",Derrick White,BOS,28100000,Star,28.1,True,True,58448000.0
+63,RJ Barrett,TOR,27705357,29616071,,,,,"$57,321,428",RJ Barrett,TOR,27705357,Star,27.705357,True,True,57321428.0
+65,Devin Vassell,SAS,27000000,27000000,,,,,"$105,652,174",Devin Vassell,SAS,27000000,Star,27.0,True,True,54000000.0
+69,Draymond Green,GSW,25892857,27678571,,,,,"$53,571,428",Draymond Green,GSW,25892857,Star,25.892857,True,True,53571428.0
+70,Nic Claxton,BRK,25352272,23147727,,,,,"$69,443,183",Nic Claxton,BKN,25352272,Star,25.352272,True,True,48499999.0
+71,Trey Murphy III,NOP,25000000,27000000,,,,,"$112,000,000",Trey Murphy III,NOR,25000000,Star,25.0,True,True,52000000.0
+72,Miles Bridges,CHO,25000000,22826087,,,,,"$47,826,087",Miles Bridges,CHA,25000000,Star,25.0,True,True,47826087.0
+74,Jaden McDaniels,MIN,24858622,26700001,,,,,"$110,482,758",Jaden McDaniels,MIN,24858622,Star,24.858622,True,True,51558623.0
+75,DeMar DeRozan,SAC,24570000,25740000,,,,,"$24,570,000",DeMar DeRozan,SAC,24570000,Star,24.57,True,True,50310000.0
+76,De'Andre Hunter,CLE,23303571,24910714,,,,,"$48,214,285",De'Andre Hunter,CLE,23303571,Star,23.303571,True,True,48214285.0
+77,Aaron Gordon,DEN,22841455,31978037,,,,,"$89,355,772",Aaron Gordon,DEN,22841455,Star,22.841455,True,True,54819492.0
+78,Kyle Kuzma,MIL,22410605,20345152,,,,,"$42,755,757",Kyle Kuzma,MIL,22410605,Star,22.410605,True,True,42755757.0
+79,Kentavious Caldwell-Pope,MEM,21621500,21621500,,,,,"$21,621,500",Kentavious Caldwell-Pope,MEM,21621500,Star,21.6215,True,True,43243000.0
+82,Dillon Brooks,PHO,21124110,19992727,,,,,"$41,116,837",Dillon Brooks,PHX,21124110,Star,21.12411,True,True,41116837.0
+83,Cameron Johnson,DEN,20543478,22500000,,,,,"$43,043,478",Cameron Johnson,DEN,20543478,Star,20.543478,True,True,43043478.0
+85,Jarrett Allen,CLE,20000000,28000000,,,,,"$110,720,000",Jarrett Allen,CLE,20000000,Star,20.0,True,True,48000000.0
+86,Jakob Poeltl,TOR,19500000,19500000,,,,,"$39,000,000",Jakob Poeltl,TOR,19500000,Star,19.5,True,True,39000000.0
+87,Josh Hart,NYK,19472240,20923760,,,,,"$40,396,000",Josh Hart,NYK,19472240,Star,19.47224,True,True,40396000.0
+91,Malik Monk,SAC,18797619,20190035,,,,,"$38,987,654",Malik Monk,SAC,18797619,Star,18.797619,True,True,38987654.0
+93,Alex Caruso,OKC,18102000,19550160,,,,,"$81,096,960",Alex Caruso,OKC,18102000,Star,18.102,True,True,37652160.0
+94,Ivica Zubac,LAC,18102000,19550160,,,,,"$58,650,480",Ivica Zubac,LAC,18102000,Star,18.102,True,True,37652160.0
+95,Andrew Nembhard,IND,18102000,19550160,,,,,"$58,650,480",Andrew Nembhard,IND,18102000,Star,18.102,True,True,37652160.0
+97,Patrick Williams,CHI,18000000,18000000,,,,,"$54,000,000",Patrick Williams,CHI,18000000,Star,18.0,True,True,36000000.0
+99,Luguentz Dort,OKC,17722222,17722222,,,,,"$17,722,222",Luguentz Dort,OKC,17722222,Star,17.722222,True,True,35444444.0
+100,Keldon Johnson,SAS,17500000,17500000,,,,,"$35,000,000",Keldon Johnson,SAS,17500000,Star,17.5,True,True,35000000.0
+101,Grayson Allen,PHO,16875000,18125000,,,,,"$35,000,000",Grayson Allen,PHX,16875000,Star,16.875,True,True,35000000.0
+102,Klay Thompson,DAL,16666667,17460317,,,,,"$34,126,984",Klay Thompson,DAL,16666667,Star,16.666667,True,True,34126984.0
+103,Bogdan Bogdanović,LAC,16020000,16020000,,,,,"$16,020,000",Bogdan Bogdanović,LAC,16020000,Star,16.02,True,True,32040000.0
+104,Max Strus,CLE,15936452,16660836,,,,,"$32,597,288",Max Strus,CLE,15936452,Star,15.936452,True,True,32597288.0
+105,Terance Mann,BRK,15500000,15500000,,,,,"$47,000,000",Terance Mann,BKN,15500000,Star,15.5,True,True,31000000.0
+107,Onyeka Okongwu,ATL,15000000,16120000,,,,,"$48,000,000",Onyeka Okongwu,ATL,15000000,Role Player,15.0,True,True,31120000.0
+108,Jonathan Isaac,ORL,15000000,14500000,,,,,"$44,000,000",Jonathan Isaac,ORL,15000000,Role Player,15.0,True,True,29500000.0
+109,Isaiah Stewart,DET,15000000,15000000,,,,,"$30,000,000",Isaiah Stewart,DET,15000000,Role Player,15.0,True,True,30000000.0
+111,Deni Avdija,POR,14375000,13125000,,,,,"$39,375,000",Deni Avdija,POR,14375000,Role Player,14.375,True,True,27500000.0
+114,Obi Toppin,IND,14000000,15000000,,,,,"$45,025,000",Obi Toppin,IND,14000000,Role Player,14.0,True,True,29000000.0
+115,Corey Kispert,WAS,13975000,13975000,,,,,"$41,000,000",Corey Kispert,WAS,13975000,Role Player,13.975,True,True,27950000.0
+116,Herbert Jones,NOP,13937574,14898786,,,,,"$28,836,360",Herbert Jones,NOR,13937574,Role Player,13.937574,True,True,28836360.0
+117,Austin Reaves,LAL,13937574,14898786,,,,,"$13,937,574",Austin Reaves,LAL,13937574,Role Player,13.937574,True,True,28836360.0
+118,Cooper Flagg,DAL,13825920,14517480,,,,,"$28,343,400",Cooper Flagg,DAL,13825920,Role Player,13.82592,True,True,28343400.0
+120,Josh Green,CHO,13666667,14679012,,,,,"$28,345,679",Josh Green,CHA,13666667,Role Player,13.666667,True,True,28345679.0
+121,Grant Williams,CHO,13645500,14265750,,,,,"$27,911,250",Grant Williams,CHA,13645500,Role Player,13.6455,True,True,27911250.0
+123,Victor Wembanyama,SAS,13376880,16868246,,,,,"$13,376,880",Victor Wembanyama,SAS,13376880,Role Player,13.37688,True,True,30245126.0
+125,Zaccharie Risacher,ATL,13197720,13826040,,,,,"$13,197,720",Zaccharie Risacher,ATL,13197720,Role Player,13.19772,True,True,27023760.0
+129,Brandon Clarke,MEM,12500000,12500000,,,,,"$25,000,000",Brandon Clarke,MEM,12500000,Role Player,12.5,True,True,25000000.0
+130,Dylan Harper,SAS,12370320,12989040,,,,,"$25,359,360",Dylan Harper,SAS,12370320,Role Player,12.37032,True,True,25359360.0
+131,Isaiah Joe,OKC,12362338,11323006,,,,,"$23,685,344",Isaiah Joe,OKC,12362338,Role Player,12.362338,True,True,23685344.0
+133,Donte DiVincenzo,MIN,11990000,12535000,,,,,"$24,525,000",Donte DiVincenzo,MIN,11990000,Role Player,11.99,True,True,24525000.0
+134,Brandon Miller,CHO,11968800,15104626,,,,,"$11,968,800",Brandon Miller,CHA,11968800,Role Player,11.9688,True,True,27073426.0
+135,Alex Sarr,WAS,11808240,12370680,,,,,"$11,808,240",Alex Sarr,WAS,11808240,Role Player,11.80824,True,True,24178920.0
+136,Moses Moody,GSW,11574075,12500000,,,,,"$37,500,000",Moses Moody,GSW,11574075,Role Player,11.574075,True,True,24074075.0
+137,Jarred Vanderbilt,LAL,11571429,12428571,,,,,"$24,000,000",Jarred Vanderbilt,LAL,11571429,Role Player,11.571429,True,True,24000000.0
+141,VJ Edgecombe,PHI,11108880,11663880,,,,,"$22,772,760",VJ Edgecombe,PHI,11108880,Role Player,11.10888,True,True,22772760.0
+142,Luke Kornet,SAS,11000000,10450000,,,,,"$24,000,000",Luke Kornet,SAS,11000000,Role Player,11.0,True,True,21450000.0
+143,Isaac Okoro,CHI,11000000,11814814,,,,,"$22,814,814",Isaac Okoro,CHI,11000000,Role Player,11.0,True,True,22814814.0
+144,Aaron Nesmith,IND,11000000,11000000,,,,,"$22,000,000",Aaron Nesmith,IND,11000000,Role Player,11.0,True,True,22000000.0
+146,Wendell Carter Jr.,ORL,10850000,18102000,,,,,"$48,502,160",Wendell Carter Jr.,ORL,10850000,Role Player,10.85,True,True,28952000.0
+148,Scoot Henderson,POR,10748040,13585523,,,,,"$10,748,040",Scoot Henderson,POR,10748040,Role Player,10.74804,True,True,24333563.0
+149,Reed Sheppard,HOU,10603560,11108880,,,,,"$10,603,560",Reed Sheppard,HOU,10603560,Role Player,10.60356,True,True,21712440.0
+150,Jonas Valančiūnas,DEN,10395000,10000000,,,,,"$10,395,000",Jonas Valančiūnas,DEN,10395000,Role Player,10.395,True,True,20395000.0
+151,T.J. McConnell,IND,10200000,11000000,,,,,"$33,000,000",T.J. McConnell,IND,10200000,Role Player,10.2,True,True,21200000.0
+152,Royce O'Neale,PHO,10125000,10875000,,,,,"$32,625,000",Royce O'Neale,PHX,10125000,Role Player,10.125,True,True,21000000.0
+154,Sam Hauser,BOS,10044644,10848215,,,,,"$45,000,000",Sam Hauser,BOS,10044644,Role Player,10.044644,True,True,20892859.0
+155,Kon Knueppel,CHO,10015680,10516560,,,,,"$20,532,240",Kon Knueppel,CHA,10015680,Role Player,10.01568,True,True,20532240.0
+156,Derrick Jones Jr.,LAC,10000000,10476190,,,,,"$20,476,190",Derrick Jones Jr.,LAC,10000000,Role Player,10.0,True,True,20476190.0
+157,Lonzo Ball,CLE,10000000,10000000,,,,,"$10,000,000",Lonzo Ball,CLE,10000000,Role Player,10.0,True,True,20000000.0
+159,Amen Thompson,HOU,9690600,12258609,,,,,"$9,690,600",Amen Thompson,HOU,9690600,Role Player,9.6906,True,True,21949209.0
+160,Aaron Wiggins,OKC,9672897,8831776,,,,,"$34,485,983",Aaron Wiggins,OKC,9672897,Role Player,9.672897,True,True,18504673.0
+161,Caleb Martin,DAL,9594044,10001493,,,,,"$19,595,537",Caleb Martin,DAL,9594044,Role Player,9.594044,True,True,19595537.0
+162,Stephon Castle,SAS,9560520,10015920,,,,,"$9,560,520",Stephon Castle,SAS,9560520,Role Player,9.56052,True,True,19576440.0
+164,Buddy Hield,GSW,9219512,9658536,,,,,"$18,878,048",Buddy Hield,GSW,9219512,Role Player,9.219512,True,True,18878048.0
+165,Kyle Anderson,UTA,9219512,9658536,,,,,"$9,219,512",Kyle Anderson,UTA,9219512,Role Player,9.219512,True,True,18878048.0
+167,Ace Bailey,UTA,9069840,9523080,,,,,"$18,592,920",Ace Bailey,UTA,9069840,Role Player,9.06984,True,True,18592920.0
+168,Naji Marshall,DAL,9000000,9428571,,,,,"$18,428,571",Naji Marshall,DAL,9000000,Role Player,9.0,True,True,18428571.0
+169,Jalen Smith,CHI,9000000,9428571,,,,,"$18,428,571",Jalen Smith,CHI,9000000,Role Player,9.0,True,True,18428571.0
+170,Ausar Thompson,DET,8775000,11117925,,,,,"$8,775,000",Ausar Thompson,DET,8775000,Role Player,8.775,True,True,19892925.0
+171,Ron Holland,DET,8657280,9069600,,,,,"$8,657,280",Ron Holland,DET,8657280,Role Player,8.65728,True,True,17726880.0
+174,Goga Bitadze,ORL,8333333,7608696,,,,,"$15,942,029",Goga Bitadze,ORL,8333333,Role Player,8.333333,True,True,15942029.0
+177,Zeke Nnaji,DEN,8177778,7466667,,,,,"$15,644,445",Zeke Nnaji,DEN,8177778,Role Player,8.177778,True,True,15644445.0
+181,Anthony Black,ORL,7970280,10106316,,,,,"$7,970,280",Anthony Black,ORL,7970280,Role Player,7.97028,True,True,18076596.0
+182,Tidjane Salaün,CHO,7863240,8237880,,,,,"$7,863,240",Tidjane Salaün,CHA,7863240,Role Player,7.86324,True,True,16101120.0
+183,Max Christie,DAL,7714286,8285714,,,,,"$16,000,000",Max Christie,DAL,7714286,Role Player,7.714286,True,True,16000000.0
+185,Jeremiah Fears,NOP,7520040,7896240,,,,,"$15,416,280",Jeremiah Fears,NOR,7520040,Role Player,7.52004,True,True,15416280.0
+187,Bilal Coulibaly,WAS,7275600,9240012,,,,,"$7,275,600",Bilal Coulibaly,WAS,7275600,Role Player,7.2756,True,True,16515612.0
+188,Payton Pritchard,BOS,7232143,7767857,,,,,"$23,303,571",Payton Pritchard,BOS,7232143,Role Player,7.232143,True,True,15000000.0
+189,Donovan Clingan,POR,7178400,7519920,,,,,"$7,178,400",Donovan Clingan,POR,7178400,Role Player,7.1784,True,True,14698320.0
+190,Kenrich Williams,OKC,7163000,7163000,,,,,"$7,163,000",Kenrich Williams,OKC,7163000,Role Player,7.163,True,True,14326000.0
+192,Egor Demin,BRK,6889200,7233720,,,,,"$14,122,920",Egor Demin,BKN,6889200,Role Player,6.8892,True,True,14122920.0
+195,Jarace Walker,IND,6665520,8478542,,,,,"$6,665,520",Jarace Walker,IND,6665520,Role Player,6.66552,True,True,15144062.0
+198,Rob Dillingham,MIN,6576120,6889320,,,,,"$6,576,120",Rob Dillingham,MIN,6576120,Role Player,6.57612,True,True,13465440.0
+201,Collin Murray-Boyles,TOR,6332520,6649560,,,,,"$12,982,080",Collin Murray-Boyles,TOR,6332520,Role Player,6.33252,True,True,12982080.0
+203,John Konchar,MEM,6165000,6165000,,,,,"$12,330,000",John Konchar,MEM,6165000,Role Player,6.165,True,True,12330000.0
+204,Taylor Hendricks,UTA,6127080,7805900,,,,,"$6,127,080",Taylor Hendricks,UTA,6127080,Role Player,6.12708,True,True,13932980.0
+205,Saddiq Bey,NOP,6118644,6440678,,,,,"$12,559,322",Saddiq Bey,NOR,6118644,Role Player,6.118644,True,True,12559322.0
+206,Zach Edey,MEM,6045000,6332760,,,,,"$6,045,000",Zach Edey,MEM,6045000,Role Player,6.045,True,True,12377760.0
+207,Khaman Maluach,PHO,6016080,6316680,,,,,"$12,332,760",Khaman Maluach,PHX,6016080,Role Player,6.01608,True,True,12332760.0
+208,Jaden Hardy,DAL,6000000,6000000,,,,,"$12,000,000",Jaden Hardy,DAL,6000000,Role Player,6.0,True,True,12000000.0
+209,Cason Wallace,OKC,5820240,7420806,,,,,"$5,820,240",Cason Wallace,OKC,5820240,Role Player,5.82024,True,True,13241046.0
+210,Cody Williams,UTA,5742480,6015600,,,,,"$5,742,480",Cody Williams,UTA,5742480,Role Player,5.74248,True,True,11758080.0
+211,Cedric Coward,MEM,5715120,6001080,,,,,"$11,716,200",Cedric Coward,MEM,5715120,Role Player,5.71512,True,True,11716200.0
+214,Jett Howard,ORL,5529720,7337939,,,,,"$5,529,720",Jett Howard,ORL,5529720,Role Player,5.52972,True,True,12867659.0
+215,Matas Buzelis,CHI,5455560,5715360,,,,,"$5,455,560",Matas Buzelis,CHI,5455560,Role Player,5.45556,True,True,11170920.0
+216,Noa Essengue,CHI,5429520,5701200,,,,,"$11,130,720",Noa Essengue,CHI,5429520,Role Player,5.42952,True,True,11130720.0
+218,Kris Dunn,LAC,5426400,5684800,,,,,"$5,426,400",Kris Dunn,LAC,5426400,Role Player,5.4264,True,True,11111200.0
+220,Dereck Lively II,DAL,5253360,7239131,,,,,"$5,253,360",Dereck Lively II,DAL,5253360,Role Player,5.25336,True,True,12492491.0
+221,Nikola Topić,OKC,5182920,5429760,,,,,"$5,182,920",Nikola Topić,OKC,5182920,Role Player,5.18292,True,True,10612680.0
+222,Derik Queen,NOP,5157960,5416080,,,,,"$10,574,040",Derik Queen,NOR,5157960,Role Player,5.15796,True,True,10574040.0
+226,Gradey Dick,TOR,4990560,7131511,,,,,"$4,990,560",Gradey Dick,TOR,4990560,Rookie/Min,4.99056,True,True,12122071.0
+228,Devin Carter,SAC,4923720,5158080,,,,,"$4,923,720",Devin Carter,SAC,4923720,Rookie/Min,4.92372,True,True,10081800.0
+230,Carter Bryant,SAS,4900320,5145360,,,,,"$10,045,680",Carter Bryant,SAS,4900320,Rookie/Min,4.90032,True,True,10045680.0
+232,Jordan Hawkins,NOP,4741320,7021895,,,,,"$4,741,320",Jordan Hawkins,NOR,4741320,Rookie/Min,4.74132,True,True,11763215.0
+234,Bub Carrington,WAS,4677600,4900560,,,,,"$4,677,600",Bub Carrington,WAS,4677600,Rookie/Min,4.6776,True,True,9578160.0
+235,Thomas Sorber,OKC,4655040,4887720,,,,,"$9,542,760",Thomas Sorber,OKC,4655040,Rookie/Min,4.65504,True,True,9542760.0
+236,Kobe Bufkin,ATL,4503720,6904203,,,,,"$4,503,720",Kobe Bufkin,ATL,4503720,Rookie/Min,4.50372,True,True,11407923.0
+237,Jose Alvarado,NOP,4500000,4500000,,,,,"$4,500,000",Jose Alvarado,NOR,4500000,Rookie/Min,4.5,True,True,9000000.0
+239,Kel'el Ware,MIA,4443360,4654920,,,,,"$4,443,360",Kel'el Ware,MIA,4443360,Rookie/Min,4.44336,True,True,9098280.0
+240,Yang Hansen,POR,4422360,4643520,,,,,"$9,065,880",Yang Hansen,POR,4422360,Rookie/Min,4.42236,True,True,9065880.0
+242,Miles McBride,NYK,4333333,3956523,,,,,"$8,289,856",Miles McBride,NYK,4333333,Rookie/Min,4.333333,True,True,8289856.0
+243,Keyonte George,UTA,4278960,6563925,,,,,"$4,278,960",Keyonte George,UTA,4278960,Rookie/Min,4.27896,True,True,10842885.0
+244,Jared McCain,PHI,4221360,4422600,,,,,"$4,221,360",Jared McCain,PHI,4221360,Rookie/Min,4.22136,True,True,8643960.0
+245,Joan Beringer,MIN,4201080,4411200,,,,,"$8,612,280",Joan Beringer,MIN,4201080,Rookie/Min,4.20108,True,True,8612280.0
+247,Dalton Knecht,LAL,4010160,4201080,,,,,"$4,010,160",Dalton Knecht,LAL,4010160,Rookie/Min,4.01016,True,True,8211240.0
+249,Walter Clayton,UTA,3991320,4190520,,,,,"$8,181,840",Walter Clayton,UTA,3991320,Rookie/Min,3.99132,True,True,8181840.0
+250,Jaime Jaquez Jr.,MIA,3861600,5939141,,,,,"$3,861,600",Jaime Jaquez Jr.,MIA,3861600,Rookie/Min,3.8616,True,True,9800741.0
+251,Nolan Traoré,BRK,3811560,4002000,,,,,"$7,813,560",Nolan Traoré,BKN,3811560,Rookie/Min,3.81156,True,True,7813560.0
+252,Tristan Da Silva,ORL,3809520,3991200,,,,,"$3,809,520",Tristan Da Silva,ORL,3809520,Rookie/Min,3.80952,True,True,7800720.0
+253,Brandin Podziemski,GSW,3687960,5679459,,,,,"$3,687,960",Brandin Podziemski,GSW,3687960,Rookie/Min,3.68796,True,True,9367419.0
+254,Svi Mykhailiuk,UTA,3675000,3850000,,,,,,Svi Mykhailiuk,UTA,3675000,Rookie/Min,3.675,True,True,7525000.0
+255,Kasparas Jakucionis,MIA,3658800,3841680,,,,,"$7,500,480",Kasparas Jakucionis,MIA,3658800,Rookie/Min,3.6588,True,True,7500480.0
+256,Ja'Kobe Walter,TOR,3638160,3811800,,,,,"$3,638,160",Ja'Kobe Walter,TOR,3638160,Rookie/Min,3.63816,True,True,7449960.0
+257,Cam Whitmore,WAS,3539760,5458310,,,,,"$3,539,760",Cam Whitmore,WAS,3539760,Rookie/Min,3.53976,True,True,8998070.0
+258,Will Riley,WAS,3512520,3688320,,,,,"$7,200,840",Will Riley,WAS,3512520,Rookie/Min,3.51252,True,True,7200840.0
+259,Jaylon Tyson,CLE,3492480,3658560,,,,,"$3,492,480",Jaylon Tyson,CLE,3492480,Rookie/Min,3.49248,True,True,7151040.0
+262,Noah Clowney,BRK,3398640,5414034,,,,,"$3,398,640",Noah Clowney,BKN,3398640,Rookie/Min,3.39864,True,True,8812674.0
+263,Drake Powell,BRK,3372240,3540600,,,,,"$6,912,840",Drake Powell,BKN,3372240,Rookie/Min,3.37224,True,True,6912840.0
+264,Yves Missi,NOP,3353040,3512760,,,,,"$3,353,040",Yves Missi,NOR,3353040,Rookie/Min,3.35304,True,True,6865800.0
+265,Dariq Whitehead,BRK,3262560,5366912,,,,,"$3,262,560",Dariq Whitehead,BKN,3262560,Rookie/Min,3.26256,True,True,8629472.0
+266,Asa Newell,ATL,3237480,3399480,,,,,"$6,636,960",Asa Newell,ATL,3237480,Rookie/Min,3.23748,True,True,6636960.0
+267,DaRon Holmes,DEN,3218760,3372120,,,,,"$3,218,760",DaRon Holmes,DEN,3218760,Rookie/Min,3.21876,True,True,6590880.0
+269,Kris Murray,POR,3132000,5315004,,,,,"$3,132,000",Kris Murray,POR,3132000,Rookie/Min,3.132,True,True,8447004.0
+270,Nique Clifford,SAC,3108120,3263400,,,,,"$6,371,520",Nique Clifford,SAC,3108120,Rookie/Min,3.10812,True,True,6371520.0
+271,Nassir Little,PHO,3107143,3107143,,,,,"$12,428,572",Nassir Little,PHX,3107143,Rookie/Min,3.107143,True,True,6214286.0
+272,AJ Johnson,WAS,3090480,3237120,,,,,"$3,090,480",AJ Johnson,WAS,3090480,Rookie/Min,3.09048,True,True,6327600.0
+273,Olivier-Maxence Prosper,DAL,3007080,5259383,,,,,"$3,007,080",Olivier-Maxence Prosper,DAL,3007080,Rookie/Min,3.00708,True,True,8266463.0
+274,Shake Milton,LAL,3000000,3287406,,,,,"$6,287,406",Shake Milton,LAL,3000000,Rookie/Min,3.0,True,True,6287406.0
+275,Kyle Filipowski,UTA,3000000,3000000,,,,,"$3,000,000",Kyle Filipowski,UTA,3000000,Rookie/Min,3.0,True,True,6000000.0
+276,Julian Champagnie,SAS,3000000,3000000,,,,,,Julian Champagnie,SAS,3000000,Rookie/Min,3.0,True,True,6000000.0
+277,Jase Richardson,ORL,2983320,3132360,,,,,"$6,115,680",Jase Richardson,ORL,2983320,Rookie/Min,2.98332,True,True,6115680.0
+278,Kyshawn George,WAS,2966760,3108000,,,,,"$2,966,760",Kyshawn George,WAS,2966760,Rookie/Min,2.96676,True,True,6074760.0
+281,Marcus Sasser,DET,2886720,5198983,,,,,"$2,886,720",Marcus Sasser,DET,2886720,Rookie/Min,2.88672,True,True,8085703.0
+282,Ben Saraf,BRK,2884560,3028560,,,,,"$5,913,120",Ben Saraf,BKN,2884560,Rookie/Min,2.88456,True,True,5913120.0
+283,Pacome Dadiet,NYK,2847600,2983680,,,,,"$2,847,600",Pacome Dadiet,NYK,2847600,Rookie/Min,2.8476,True,True,5831280.0
+284,Danny Wolf,BRK,2801280,2941440,,,,,"$5,742,720",Danny Wolf,BKN,2801280,Rookie/Min,2.80128,True,True,5742720.0
+285,Ben Sheppard,IND,2790720,5031669,,,,,"$2,790,720",Ben Sheppard,IND,2790720,Rookie/Min,2.79072,True,True,7822389.0
+286,Hugo González,BOS,2783880,2923560,,,,,"$5,707,440",Hugo González,BOS,2783880,Rookie/Min,2.78388,True,True,5707440.0
+287,Liam McNeeley,CHO,2763960,2902080,,,,,"$5,666,040",Liam McNeeley,CHA,2763960,Rookie/Min,2.76396,True,True,5666040.0
+288,Dillon Jones,OKC,2753280,2884440,,,,,"$2,753,280",Dillon Jones,OKC,2753280,Rookie/Min,2.75328,True,True,5637720.0
+289,Yanic Konan Niederhauser,LAC,2743800,2880960,,,,,"$5,624,760",Yanic Konan Niederhauser,LAC,2743800,Rookie/Min,2.7438,True,True,5624760.0
+290,DaQuan Jeffries,CHO,2743776,3080918,,,,,,DaQuan Jeffries,CHA,2743776,Rookie/Min,2.743776,True,True,5824694.0
+291,Nick Smith Jr.,CHO,2710680,4890067,,,,,"$2,710,680",Nick Smith Jr.,CHA,2710680,Rookie/Min,2.71068,True,True,7600747.0
+292,Brice Sensabaugh,UTA,2693760,4862237,,,,,"$2,693,760",Brice Sensabaugh,UTA,2693760,Rookie/Min,2.69376,True,True,7555997.0
+293,Julian Strawther,DEN,2674200,4826931,,,,,"$2,674,200",Julian Strawther,DEN,2674200,Rookie/Min,2.6742,True,True,7501131.0
+294,Terrence Shannon Jr.,MIN,2674080,2801640,,,,,"$2,674,080",Terrence Shannon Jr.,MIN,2674080,Rookie/Min,2.67408,True,True,5475720.0
+296,Ryan Dunn,PHO,2657760,2784240,,,,,"$2,657,760",Ryan Dunn,PHX,2657760,Rookie/Min,2.65776,True,True,5442000.0
+297,Kobe Brown,LAC,2654880,4792059,,,,,"$2,654,880",Kobe Brown,LAC,2654880,Rookie/Min,2.65488,True,True,7446939.0
+298,Isaiah Collier,UTA,2638200,2763960,,,,,"$2,638,200",Isaiah Collier,UTA,2638200,Rookie/Min,2.6382,True,True,5402160.0
+299,Baylor Scheierman,BOS,2619000,2744040,,,,,"$7,697,033",Baylor Scheierman,BOS,2619000,Rookie/Min,2.619,True,True,5363040.0
+304,Justin Champagnie,WAS,2349578,2667944,,,,,"$5,017,522",Justin Champagnie,WAS,2349578,Rookie/Min,2.349578,True,True,5017522.0
+306,Jay Huff,IND,2349578,2667944,,,,,"$2,349,578",Jay Huff,IND,2349578,Rookie/Min,2.349578,True,True,5017522.0
+308,Jaden Springer,UTA,2349578,2667944,,,,,,Jaden Springer,UTA,2349578,Rookie/Min,2.349578,True,True,5017522.0
+311,Neemias Queta,BOS,2349578,2667944,,,,,,Neemias Queta,BOS,2349578,Rookie/Min,2.349578,True,True,5017522.0
+312,Vit Krejci,ATL,2349578,2667944,,,,,,Vit Krejci,ATL,2349578,Rookie/Min,2.349578,True,True,5017522.0
+314,Vince Williams Jr.,MEM,2301587,2489752,,,,,"$2,301,587",Vince Williams Jr.,MEM,2301587,Rookie/Min,2.301587,True,True,4791339.0
+316,Scotty Pippen Jr.,MEM,2270735,2461462,,,,,"$2,270,735",Scotty Pippen Jr.,MEM,2270735,Rookie/Min,2.270735,True,True,4732197.0
+320,Moussa Diabaté,CHO,2270735,2461462,,,,,,Moussa Diabaté,CHA,2270735,Rookie/Min,2.270735,True,True,4732197.0
+322,Ricky Council IV,PHI,2221677,2406205,,,,,"$2,221,677",Ricky Council IV,PHI,2221677,Rookie/Min,2.221677,True,True,4627882.0
+323,GG Jackson II,MEM,2221677,2406205,,,,,"$2,221,677",GG Jackson II,MEM,2221677,Rookie/Min,2.221677,True,True,4627882.0
+325,Jalen Pickett,DEN,2221677,2406205,,,,,"$2,221,677",Jalen Pickett,DEN,2221677,Rookie/Min,2.221677,True,True,4627882.0
+326,Hunter Tyson,DEN,2221677,2406205,,,,,"$2,221,677",Hunter Tyson,DEN,2221677,Rookie/Min,2.221677,True,True,4627882.0
+327,Julian Phillips,CHI,2221677,2406205,,,,,"$2,221,677",Julian Phillips,CHI,2221677,Rookie/Min,2.221677,True,True,4627882.0
+329,Jordan Walsh,BOS,2221677,2406205,,,,,"$200,000",Jordan Walsh,BOS,2221677,Rookie/Min,2.221677,True,True,4627882.0
+331,Toumani Camara,POR,2221677,2406205,,,,,,Toumani Camara,POR,2221677,Rookie/Min,2.221677,True,True,4627882.0
+332,Leonard Miller,MIN,2221677,2406205,,,,,,Leonard Miller,MIN,2221677,Rookie/Min,2.221677,True,True,4627882.0
+333,Andre Jackson Jr.,MIL,2221677,2406205,,,,,,Andre Jackson Jr.,MIL,2221677,Rookie/Min,2.221677,True,True,4627882.0
+334,Trayce Jackson-Davis,GSW,2221677,2406205,,,,,,Trayce Jackson-Davis,GSW,2221677,Rookie/Min,2.221677,True,True,4627882.0
+335,Craig Porter Jr.,CLE,2221677,2406205,,,,,,Craig Porter Jr.,CLE,2221677,Rookie/Min,2.221677,True,True,4627882.0
+336,Mouhamed Gueye,ATL,2221677,2406205,,,,,,Mouhamed Gueye,ATL,2221677,Rookie/Min,2.221677,True,True,4627882.0
+337,JaVale McGee,DAL,2208856,2208856,,,,,"$6,626,568",JaVale McGee,DAL,2208856,Rookie/Min,2.208856,True,True,4417712.0
+338,Tyler Kolek,NYK,2191897,2296271,,,,,"$4,488,168",Tyler Kolek,NYK,2191897,Rookie/Min,2.191897,True,True,4488168.0
+343,Tyler Smith,MIL,1955377,2296271,,,,,"$4,251,648",Tyler Smith,MIL,1955377,Rookie/Min,1.955377,True,True,4251648.0
+344,Johnny Furphy,IND,1955377,2296271,,,,,"$4,251,648",Johnny Furphy,IND,1955377,Rookie/Min,1.955377,True,True,4251648.0
+345,Jonathan Mogbo,TOR,1955377,2296271,,,,,"$1,955,377",Jonathan Mogbo,TOR,1955377,Rookie/Min,1.955377,True,True,4251648.0
+346,Jamal Shead,TOR,1955377,2296271,,,,,"$1,955,377",Jamal Shead,TOR,1955377,Rookie/Min,1.955377,True,True,4251648.0
+348,Oso Ighodaro,PHO,1955377,2296271,,,,,"$1,955,377",Oso Ighodaro,PHX,1955377,Rookie/Min,1.955377,True,True,4251648.0
+350,Karlo Matković,NOP,1955377,2296271,,,,,"$1,955,377",Karlo Matković,NOR,1955377,Rookie/Min,1.955377,True,True,4251648.0
+352,Jaylen Wells,MEM,1955377,2296271,,,,,"$1,955,377",Jaylen Wells,MEM,1955377,Rookie/Min,1.955377,True,True,4251648.0
+353,Bronny James,LAL,1955377,2296271,,,,,"$1,955,377",Bronny James,LAL,1955377,Rookie/Min,1.955377,True,True,4251648.0
+354,Cam Christie,LAC,1955377,2296271,,,,,"$1,955,377",Cam Christie,LAC,1955377,Rookie/Min,1.955377,True,True,4251648.0
+356,Bobi Klintman,DET,1955377,2296271,,,,,"$1,955,377",Bobi Klintman,DET,1955377,Rookie/Min,1.955377,True,True,4251648.0
+358,Jamison Battle,TOR,1955377,2296271,,,,,,Jamison Battle,TOR,1955377,Rookie/Min,1.955377,True,True,4251648.0
+359,Adem Bona,PHI,1955377,2296271,,,,,,Adem Bona,PHI,1955377,Rookie/Min,1.955377,True,True,4251648.0
+360,Pelle Larsson,MIA,1955377,2296271,,,,,,Pelle Larsson,MIA,1955377,Rookie/Min,1.955377,True,True,4251648.0
+361,E.J. Liddell,PHO,706898,706898,,,,,"$1,413,796",E.J. Liddell,PHX,706898,Rookie/Min,0.706898,True,True,1413796.0
+362,Mamadi Diakite,MEM,464050,464050,,,,,"$928,100",Mamadi Diakite,MEM,464050,Rookie/Min,0.46405,True,True,928100.0
+363,Ricky Rubio,CLE,424672,424672,,,,,"$849,344",Ricky Rubio,CLE,424672,Rookie/Min,0.424672,True,True,849344.0
+364,Didi Louzada,POR,268032,268032,,,,,"$1,072,128",Didi Louzada,POR,268032,Rookie/Min,0.268032,True,True,536064.0

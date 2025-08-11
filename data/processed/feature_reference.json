@@ -1,0 +1,83 @@
+{
+  "total_features": 116,
+  "engineered_features": 61,
+  "categories": {
+    "Basic_Stats": [
+      "PTS",
+      "TRB",
+      "AST",
+      "PPG",
+      "RPG",
+      "APG"
+    ],
+    "Advanced_Stats": [
+      "PER",
+      "VORP",
+      "BPM",
+      "WS"
+    ],
+    "Efficiency_Metrics": [
+      "Points_Per_Million",
+      "WinShares_Per_Million",
+      "VORP_Per_Million"
+    ],
+    "Performance_Scores": [
+      "Performance_Score",
+      "Position_Adjusted_Score",
+      "Durability_Score",
+      "Performance_Score_YoY_Change",
+      "Performance_Score_Trend",
+      "Performance_Score_Consistency",
+      "Performance_Score_Career_High",
+      "Performance_Score_Pct_of_Career_High"
+    ],
+    "Contract_Features": [
+      "Current_Salary",
+      "Salary_Tier",
+      "Salary_Millions",
+      "Has_Salary_Data",
+      "Predicted_Salary_Millions",
+      "Salary_Premium",
+      "Value_Rating",
+      "Contract_Type",
+      "Value_Classification",
+      "Contract_Risk",
+      "Salary_Millions_sum",
+      "Salary_Millions_mean",
+      "Salary_Pct_of_Team",
+      "Team_Salary_Rank",
+      "League_Salary_Percentile",
+      "Position_Market_Salary",
+      "Position_Salary_Premium",
+      "Potential_Contract_Year"
+    ],
+    "Team_Context": [
+      "Team",
+      "Team_Clean",
+      "Salary_Pct_of_Team",
+      "Team_Salary_Rank",
+      "Team_Role"
+    ],
+    "Predictive_Features": [
+      "PER_YoY_Change",
+      "PER_Trend",
+      "VORP_YoY_Change",
+      "VORP_Trend",
+      "Performance_Score_YoY_Change",
+      "Performance_Score_Trend",
+      "Projected_Performance"
+    ],
+    "Career_Features": [
+      "Career_Stage",
+      "Years_Experience",
+      "Career_Games",
+      "Career_Minutes",
+      "PER_Career_High",
+      "PER_Pct_of_Career_High",
+      "VORP_Career_High",
+      "VORP_Pct_of_Career_High",
+      "Performance_Score_Career_High",
+      "Performance_Score_Pct_of_Career_High"
+    ]
+  }
+}
