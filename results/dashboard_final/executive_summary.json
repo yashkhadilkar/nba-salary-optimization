@@ -1,0 +1,48 @@
+{
+  "dashboard_type": "NBA Executive Dashboard - Final Version",
+  "generated": "2025-08-20T18:38:49.923368",
+  "market_metrics": {
+    "total_market_value_billions": 4.51,
+    "market_inefficiency_billions": 1.43,
+    "potential_savings_billions": 0.86,
+    "roi_percentage": 19.0
+  },
+  "player_analysis": {
+    "total_players": 489,
+    "established_players": 174,
+    "best_contract": {
+      "player": "Kristaps Porzi\u0146\u0123is",
+      "efficiency": 1.33,
+      "salary_millions": 7.1
+    },
+    "worst_contract": {
+      "player": "Cody Williams",
+      "efficiency": -0.17,
+      "salary_millions": 5.7
+    }
+  },
+  "team_analysis": {
+    "most_efficient": "DAL",
+    "least_efficient": "NYK",
+    "efficiency_range": [
+      0.45,
+      0.87
+    ]
+  },
+  "trade_analysis": {
+    "realistic_trades_identified": 15,
+    "top_trade": {
+      "Trade_Away": "Bub Carrington",
+      "Trade_Away_Team": "WAS",
+      "Trade_Away_Salary": 4.6776,
+      "Trade_For": "Anfernee Simons",
+      "Trade_For_Team": "POR",
+      "Trade_For_Salary": 4.636017915608869,
+      "Position": "Guard",
+      "Salary_Change": 0.041582084391131424,
+      "Value_Improvement": 4.345000000000001,
+      "Trade_Feasibility": "High",
+      "ROI": 4.171538724708307
+    }
+  }
+}
