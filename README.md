@@ -31,3 +31,8 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - 21.07% ROI opportunity through strategic contract optimization
 - $0.86B in potential savings achievable through data-driven roster management
 - 69.1% market health score with 338 value players vs 151 overpaid contracts
+
+## Tech Stack
+| ***Data Collection & Processing***| ***Machine Learning*** |     ***Visualization*** |   ***Development*** |
+| :---:         |     :---:      |          :---: |     :---: |
+| Pandas, Numpy, Requests, Beautiful Soup | Scikit-learn, Scipy, Joblib  | Matplotlib, Seaborn, Plotly | Jupyter Notebook, Git|
