@@ -38,3 +38,4 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 | Pandas, Numpy, Requests, Beautiful Soup | Scikit-learn, Scipy, Joblib  | Matplotlib, Seaborn, Plotly | Jupyter Notebook, Git| Python|
 
 ## Data Pipeline
+![Demo](assets/pipeline.png)
