@@ -106,10 +106,12 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 
 ![Demo](assets/KPI_Dashboard.png)
 
-## Advanced Analytics
+## Advanced Analytics (26 Visualizations)
 - Salary vs Performance Analysis - Scatter plots with efficiency color coding
 - Team Efficiency Rankings - Comprehensive team comparison
 - Trade Recommendation Engine - 12 realistic trade scenarios
 - Market Inefficiency Heatmaps - Position × Contract tier analysis
 - Optimal Roster Construction - 3 championship-level strategies
 - Contract Risk Assessment - Age vs efficiency trends
+
+
