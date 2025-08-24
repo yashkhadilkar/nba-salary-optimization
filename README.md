@@ -54,7 +54,27 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 | :---:         |     :---:      |          :---: |     :---: |   :---: |
 | Patrick Williams | CHI  | $18.0M | +$7.6M | 42.8% salary premium |
 | Joel Embiid | PHI  | $55.2M | +$15.8M | Injury risk/availability |
-| Jarred Vanderbilt | LAL | $11.6M | $11.6M | +$4.2M | Limited offensive output |
+| Jarred Vanderbilt | LAL | $11.6M | $11.6M | Limited offensive output |
+
+
+## Optimal Roster Construction Strategies
+### Championship Strategy ($126.9M, 93.3% cap usage)
+- 1 Superstar ($55M): Nikola Jokić
+- 4 Role Players ($37M): Quality contributors
+- 10 Depth Players ($35M): Efficient role players
+- Total Efficiency: 0.90 value per dollar
+**Similar to what the 2023 Denver Nuggets did**
+
+### Balanced Strategy ($129.1M, 94.9% cap usage)
+- 2 Superstars ($65M): Alperen Şengün + Kevin Durant
+- 1 Star ($25M): Fred VanVleet
+- 10 Supporting Cast ($39M): Mix of proven veterans and emerging talent
+- Total Efficiency: 0.94 value per dollar ⭐ OPTIMAL
+** Current Houston Rockets roster. Based on this project, I pick them as favorites out of the west. **
+
+## Trade Recommendations (Top 3)
+1. Bilal Coulibaly (WAS) ↔ Anfernee Simons (POR)
+- 
 
 
 
