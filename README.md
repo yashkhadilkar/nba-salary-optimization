@@ -138,12 +138,13 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - Strategic Planning: Long-term roster construction frameworks
 
 ## Installation & Usage
-'''bash
-# Clone repository
+```bash
+# Clone the repository
 git clone https://github.com/yourusername/nba-salary-optimization.git
 cd nba-salary-optimization
-
-# Install dependencies  
+```
+```bash
+# Install dependencies 
 pip install -r requirements.txt
 
 # Launch Jupyter Notebook
@@ -151,7 +152,7 @@ jupyter notebook
 
 # Start with data exploration
 # Open: data_cleaning_eda.ipynb
-'''
+```
 
 ### Requirements
 '''bash
