@@ -74,7 +74,25 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 
 ## Trade Recommendations (Top 3)
 1. Bilal Coulibaly (WAS) ↔ Anfernee Simons (POR)
-- 
+- Position: Guard-for-Guard swap
+- Logic: Young prospect trade, realistic salary matching
+- Value Gain: +1.6 (moderate but realistic)
+- ROI: ~2.1x (solid return)
+- Why: Both teams getting different skill sets
+
+2. Bilal Coulibaly (WAS) ↔ Chris Boucher (TOR)
+- Position: Forward flexibility
+- Logic: Youth vs veteran experience trade
+- Value Gain: +4.6 (significant improvement)
+- ROI: ~3.2x (excellent return)
+- Why: Washington gets proven vet, Toronto gets upside
+
+3. Alex Sarr (WAS) ↔ Clint Capela (ATL)
+- Position: Center-for-Center
+- Logic: Rookie potential vs proven production
+- Value Gain: +3.0 (good value creation)
+- ROI: ~2.8x (strong return)
+- Why: Atlanta gets young talent, Washington gets immediate help
 
 
 
