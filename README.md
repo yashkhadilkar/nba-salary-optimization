@@ -9,6 +9,23 @@
 
 A comprehensive data science project demonstrating contract efficiency optimization for NBA teams using machine learning, web scraping, and interactive visualizations.
 
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Impact](#impact)
+- [Data Pipeline](#data-pipeline)
+- [Key Insights](#key-insights)
+- [Optimal Roster Construction Strategies](#optimal-roster-construction-strategies)
+- [Trade Recommendations](#trade-recommendations)
+- [Interactive Dashboard](#interactive-dashboard)
+- [Advanced Analytics](#advanced-analytics)
+- [Business Value and Applications](#business-value-and-applications)
+- [Installation & Usage](#installation-&-usage)
+- [Key Notebooks](#key-notebooks)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Problem Statement
 
 NBA teams operate under strict salary cap constraints and struggle with:
@@ -194,7 +211,5 @@ dashboards.ipynb - Visualization and Dashboards
 - Basketball Reference for comprehensive NBA statistics
 - NBA.com for official player and salary data
 
-## Career Relevance
-This project demonstrates end-to-end data science skills—from web scraping to executive dashboards—directly applicable to tech, fintech, consulting, and analytics roles.
 
 
