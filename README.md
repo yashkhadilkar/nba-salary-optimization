@@ -94,5 +94,5 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - ROI: ~2.8x (strong return)
 - Why: Atlanta gets young talent, Washington gets immediate help
 
-
+![Demo](assets/trade_engine.png)
 
