@@ -96,3 +96,20 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 
 ![Demo](assets/trade_engine.png)
 
+## Interactive Dashboard
+### Executive Summary
+- Market Value: $4.51B total player value analyzed
+- Market Overpay: $1.433B in contract inefficiencies identified
+- ROI Opportunity: 21.07% potential efficiency improvement
+- Analysis Scope: 489 players with 69.1% market health score
+- Value Distribution: 338 value players vs 151 overpaid contracts
+
+
+
+## Advanced Analytics
+- Salary vs Performance Analysis - Scatter plots with efficiency color coding
+- Team Efficiency Rankings - Comprehensive team comparison
+- Trade Recommendation Engine - 12 realistic trade scenarios
+- Market Inefficiency Heatmaps - Position × Contract tier analysis
+- Optimal Roster Construction - 3 championship-level strategies
+- Contract Risk Assessment - Age vs efficiency trends
