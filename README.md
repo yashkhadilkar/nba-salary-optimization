@@ -70,7 +70,7 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - 1 Star ($25M): Fred VanVleet
 - 10 Supporting Cast ($39M): Mix of proven veterans and emerging talent
 - Total Efficiency: 0.94 value per dollar
-- ⭐ OPTIMAL** Current Houston Rockets roster. Based on this project, I pick them as favorites out of the west. **
+- ⭐ OPTIMAL **Current Houston Rockets roster. Based on this project, I pick them as favorites out of the west.**
 
 ## Trade Recommendations (Top 3)
 1. Bilal Coulibaly (WAS) ↔ Anfernee Simons (POR)
