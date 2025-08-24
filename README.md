@@ -187,12 +187,12 @@ joblib>=1.0.0
 
 
 ## Key Notebooks
-data_collection.ipynb - Web scraping and data gathering
-data_cleaning_eda.ipynb - Data cleaning and initial analysis
-advanced_eda_feature_engineering.ipynb - Feature creation and business insights
-model_building.ipynb - Machine learning model development
-optimization.ipynb - Roster optimization and trade analysis
-dashboards.ipynb - Visualization and Dashboards
+- data_collection.ipynb - Web scraping and data gathering
+- data_cleaning_eda.ipynb - Data cleaning and initial analysis
+- advanced_eda_feature_engineering.ipynb - Feature creation and business insights
+- model_building.ipynb - Machine learning model development
+- optimization.ipynb - Roster optimization and trade analysis
+- dashboards.ipynb - Visualization and Dashboards
 
 ## Future Enhancements
 - Real-time Data Pipeline: Automated daily updates from NBA APIs
