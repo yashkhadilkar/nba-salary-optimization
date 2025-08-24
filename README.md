@@ -50,8 +50,11 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 | Scotty Pippen Jr. | MEM  | $2.3M | 343.1 pts/M| Elite|
 
 ### Most Overpaid Players 
-| ***Player***| ***Team*** |     ***Salary*** |   ***Points/Million*** |  ***Efficiency Rating*** |
+| ***Player***| ***Team*** |     ***Salary*** |   ***Overpay Amount*** |  ***Efficiency Issue*** |
 | :---:         |     :---:      |          :---: |     :---: |   :---: |
-|  | DAL  |  |  |
-|  |   |  | | |
-|  | MEM  | $ | | |
+| Patrick Williams | CHI  | $18.0M | +$7.6M | 42.8% salary premium |
+| Joel Embiid | PHI  | $55.2M | +$15.8M | Injury risk/availability |
+| Jarred Vanderbilt | LAL | $11.6M | $11.6M | +$4.2M | Limited offensive output |
+
+
+
