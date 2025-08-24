@@ -63,14 +63,14 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - 4 Role Players ($37M): Quality contributors
 - 10 Depth Players ($35M): Efficient role players
 - Total Efficiency: 0.90 value per dollar
-**Similar to what the 2023 Denver Nuggets did**
+- **Similar to what the 2023 Denver Nuggets did**
 
 ### Balanced Strategy ($129.1M, 94.9% cap usage)
 - 2 Superstars ($65M): Alperen Şengün + Kevin Durant
 - 1 Star ($25M): Fred VanVleet
 - 10 Supporting Cast ($39M): Mix of proven veterans and emerging talent
-- Total Efficiency: 0.94 value per dollar ⭐ OPTIMAL
-** Current Houston Rockets roster. Based on this project, I pick them as favorites out of the west. **
+- Total Efficiency: 0.94 value per dollar
+- ⭐ OPTIMAL** Current Houston Rockets roster. Based on this project, I pick them as favorites out of the west. **
 
 ## Trade Recommendations (Top 3)
 1. Bilal Coulibaly (WAS) ↔ Anfernee Simons (POR)
