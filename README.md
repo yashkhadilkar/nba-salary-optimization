@@ -104,7 +104,7 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - Analysis Scope: 489 players with 69.1% market health score
 - Value Distribution: 338 value players vs 151 overpaid contracts
 
-
+![Demo](assets/KPI_Dashboard.png)
 
 ## Advanced Analytics
 - Salary vs Performance Analysis - Scatter plots with efficiency color coding
