@@ -117,3 +117,82 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 ![Demo](assets/Market_efficiency_analysis.png)
 ![Demo](assets/Team_efficiency_analysis.png)
 ![Demo](assets/trade_recommendation_engine.png)
+
+### Interactive Features
+- Hover Tooltips: Detailed player stats and context
+- Filtering: By team, position, salary tier, age group
+- Zoom/Pan: Deep dive into specific data points
+- Export Options: PNG, HTML, JSON for presentations
+
+## Business Value and Applications
+#### For NBA Front Offices
+- Free Agency Strategy: Target undervalued players before market correction
+- Trade Planning: Identify win-win scenarios with quantified ROI
+- Draft Preparation: Focus on efficiency over name recognition
+- Contract Negotiations: Data-driven salary benchmarking
+
+#### For Sports Analytics
+- Market Efficiency: Quantify and exploit pricing inefficiencies
+- Resource Optimization: Maximize performance within budget constraints
+- Predictive Modeling: Forecast player value and contract outcomes
+- Strategic Planning: Long-term roster construction frameworks
+
+## Installation & Usage
+'''bash
+# Clone repository
+git clone https://github.com/yourusername/nba-salary-optimization.git
+cd nba-salary-optimization
+
+# Install dependencies  
+pip install -r requirements.txt
+
+# Launch Jupyter Notebook
+jupyter notebook
+
+# Start with data exploration
+# Open: data_cleaning_eda.ipynb
+'''
+
+### Requirements
+'''bash
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+plotly>=5.0.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scipy>=1.7.0
+joblib>=1.0.0
+'''
+
+## Key Notebooks
+data_collection.ipynb - Web scraping and data gathering
+data_cleaning_eda.ipynb - Data cleaning and initial analysis
+advanced_eda_feature_engineering.ipynb - Feature creation and business insights
+model_building.ipynb - Machine learning model development
+optimization.ipynb - Roster optimization and trade analysis
+dashboards.ipynb - Visualization and Dashboards
+
+## Future Enhancements
+- Real-time Data Pipeline: Automated daily updates from NBA APIs
+- Time Series Analysis: Player performance trajectory forecasting
+- Advanced Optimization: Genetic algorithms for roster construction
+- Injury Risk Modeling: Incorporate medical data and load management
+- Advanced Analytics: Plus/minus, tracking data, lineup optimization
+- Cloud Deployment: AWS/GCP scalable infrastructure
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgments
+- Basketball Reference for comprehensive NBA statistics
+- NBA.com for official player and salary data
+
+## Career Relevance
+This project demonstrates end-to-end data science skills—from web scraping to executive dashboards—directly applicable to tech, fintech, consulting, and analytics roles.
+
+
