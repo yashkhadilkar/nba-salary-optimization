@@ -81,6 +81,37 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 - Performance: 95% accuracy on balanced dataset
 - Output: Binary recommendation (Good Contract vs Bad Contract)
 
+### Model Performance Validation
+#### Cross-validation Strategies
+- 5-fold cross-validation applied to all models for robust performance estimates
+- Train/validation/test split: 70%/15%/15% to prevent overfitting
+- Time-series aware splitting: Earlier seasons for training, recent seasons for testing
+
+#### Feature Selection & Engineering
+- Correlation analysis to remove multicollinear features (threshold: 0.85)
+- Feature importance ranking using Random Forest built-in metrics
+- Domain knowledge integration: NBA-specific position and age adjustments
+
+#### Hyperparameter Tuning
+```bash
+# Random Forest optimization via GridSearchCV
+param_grid = {
+    'n_estimators': [100, 200, 300],
+    'max_depth': [10, 15, 20, None],
+    'min_samples_split': [2, 5, 10],
+    'min_samples_leaf': [1, 2, 4]
+}
+```
+#### Performance Metrics
+- Regression Models: R², RMSE, MAE across salary ranges
+- Classification Model: Precision, Recall, F1-score with class balancing
+- Business Validation: Model predictions aligned with NBA expert evaluations
+
+#### Overfitting Prevention
+- Regularization: Applied L2 regularization where appropriate
+- Early stopping: Monitored validation performance during training
+- Feature engineering validation: Tested on holdout seasons (2024-2025)
+
 ## Key Insights
 
 ### Most Undervalued Players 
