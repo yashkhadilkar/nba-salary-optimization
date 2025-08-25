@@ -14,6 +14,7 @@ A comprehensive data science project demonstrating contract efficiency optimizat
 - [Solution](#solution)
 - [Impact](#impact)
 - [Data Pipeline](#data-pipeline)
+- [Machine Learning Models](#machine-learning-models)
 - [Key Insights](#key-insights)
 - [Optimal Roster Construction Strategies](#optimal-roster-construction-strategies)
 - [Trade Recommendations](#trade-recommendations)
@@ -58,7 +59,7 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 ![Demo](assets/pipeline.png)
 
 ## Machine Learning Models
-#### **1. Salary Prediction Model**
+**1. Salary Prediction Model**
 - Algorithm: Random Forest Regressor
 - Performance: R² = 0.75, RMSE ~$4-6M
 - Purpose: Predict fair market salary based on performance metrics
