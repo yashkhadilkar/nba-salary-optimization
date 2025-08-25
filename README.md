@@ -57,6 +57,29 @@ Built an end-to-end data science pipeline that analyzes 3,360+ player-seasons to
 ## Data Pipeline
 ![Demo](assets/pipeline.png)
 
+## Machine Learning Models
+####**1. Salary Prediction Model**
+- Algorithm: Random Forest Regressor
+- Performance: R² = 0.75, RMSE ~$4-6M
+- Purpose: Predict fair market salary based on performance metrics
+- Features: PER, VORP, BPM, Win Shares, age, experience
+
+**2. Player Value Estimation Model**
+- Algorithm: Random Forest Regressor
+- Performance: R² = 0.68
+- Purpose: Calculate player value independent of current salary
+- Key Insight: Anthony Edwards (2.301), Shai Gilgeous-Alexander (2.120) highest rated
+
+**3. Contract Efficiency Scoring System**
+- Components: Points/WS/VORP per dollar, risk-adjusted efficiency
+- Classification: Bargain, Good Value, Fair, Overpaid contracts
+- Business Logic: Age-adjusted performance, position-specific metrics
+
+**4. Contract Classification Model**
+- Algorithm: Random Forest Classifier with class balancing
+- Performance: 95% accuracy on balanced dataset
+- Output: Binary recommendation (Good Contract vs Bad Contract)
+
 ## Key Insights
 
 ### Most Undervalued Players 
@@ -196,10 +219,7 @@ joblib>=1.0.0
 
 ## Future Enhancements
 - Real-time Data Pipeline: Automated daily updates from NBA APIs
-- Time Series Analysis: Player performance trajectory forecasting
-- Advanced Optimization: Genetic algorithms for roster construction
 - Injury Risk Modeling: Incorporate medical data and load management
-- Advanced Analytics: Plus/minus, tracking data, lineup optimization
 - Cloud Deployment: AWS/GCP scalable infrastructure
 
 
