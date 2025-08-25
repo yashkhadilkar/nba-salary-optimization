@@ -108,7 +108,7 @@ param_grid = {
 - Business Validation: Model predictions aligned with NBA expert evaluations
 
 #### Overfitting Prevention
-- Regularization: Applied L2 regularization where appropriate
+- Regularization: Applied L2 regularization where appropriate for better for handling multicollinearity
 - Early stopping: Monitored validation performance during training
 - Feature engineering validation: Tested on holdout seasons (2024-2025)
 
