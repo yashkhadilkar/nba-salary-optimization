@@ -117,7 +117,7 @@ param_grid = {
 ### Most Undervalued Players 
 | ***Player***| ***Team*** |     ***Salary*** |   ***Points/Million*** |  ***Efficiency Rating*** |
 | :---:         |     :---:      |          :---: |     :---: |   :---: |
-| Kristaps Porziņģis | DAL  | $7.1M | 145.8 pts/M| Elite|
+| Kristaps Porziņģis | BOS  | $7.1M | 145.8 pts/M| Elite|
 | Toumani Camara | POR  | $2.2M | 397.0 pts/M| Outstanding|
 | Scotty Pippen Jr. | MEM  | $2.3M | 343.1 pts/M| Elite|
 
